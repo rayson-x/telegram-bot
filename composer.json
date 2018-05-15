@@ -1,0 +1,11 @@
+{
+    "require": {
+        "longman/telegram-bot": "^0.53.0",
+        "react/react": "^0.4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Longman\\TelegramBot\\Commands\\UserCommands\\": "UserCommands"
+        }
+    }
+}

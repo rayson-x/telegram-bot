@@ -1,0 +1,273 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 735673187,
+            "message": {
+                "message_id": 12692,
+                "from": {
+                    "id": 518717889,
+                    "is_bot": false,
+                    "first_name": "膜法师"
+                },
+                "chat": {
+                    "id": -1001279304690,
+                    "title": "幻想次元今天爆炸了吗",
+                    "username": "acg18us",
+                    "type": "supergroup"
+                },
+                "date": 1526288498,
+                "new_chat_participant": {
+                    "id": 581421347,
+                    "is_bot": true,
+                    "first_name": "膜法师的Bot",
+                    "username": "AAAAAE8OFbVJq7dA1hsllg_bot"
+                },
+                "new_chat_member": {
+                    "id": 581421347,
+                    "is_bot": true,
+                    "first_name": "膜法师的Bot",
+                    "username": "AAAAAE8OFbVJq7dA1hsllg_bot"
+                },
+                "new_chat_members": [
+                    {
+                        "id": 581421347,
+                        "is_bot": true,
+                        "first_name": "膜法师的Bot",
+                        "username": "AAAAAE8OFbVJq7dA1hsllg_bot"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 735673188,
+            "message": {
+                "message_id": 12696,
+                "from": {
+                    "id": 572062522,
+                    "is_bot": false,
+                    "first_name": "None",
+                    "last_name": "Rob",
+                    "username": "Nonerot"
+                },
+                "chat": {
+                    "id": -1001279304690,
+                    "title": "幻想次元今天爆炸了吗",
+                    "username": "acg18us",
+                    "type": "supergroup"
+                },
+                "date": 1526288583,
+                "text": "/repeat@AAAAAE8OFbVJq7dA1hsllg_bot 123",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 32,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 735673189,
+            "message": {
+                "message_id": 1,
+                "from": {
+                    "id": 572062522,
+                    "is_bot": false,
+                    "first_name": "None",
+                    "last_name": "Rob",
+                    "username": "Nonerot"
+                },
+                "chat": {
+                    "id": 572062522,
+                    "first_name": "None",
+                    "last_name": "Rob",
+                    "username": "Nonerot",
+                    "type": "private"
+                },
+                "date": 1526288599,
+                "text": "/repeat",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 735673190,
+            "message": {
+                "message_id": 12708,
+                "from": {
+                    "id": 518717889,
+                    "is_bot": false,
+                    "first_name": "膜法师"
+                },
+                "chat": {
+                    "id": -1001279304690,
+                    "title": "幻想次元今天爆炸了吗",
+                    "username": "acg18us",
+                    "type": "supergroup"
+                },
+                "date": 1526288790,
+                "text": "/repeat@AAAAAE8OFbVJq7dA1hsllg_bot",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 32,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 735673191,
+            "message": {
+                "message_id": 12710,
+                "from": {
+                    "id": 577277808,
+                    "is_bot": false,
+                    "first_name": "buliqiuqiu"
+                },
+                "chat": {
+                    "id": -1001279304690,
+                    "title": "幻想次元今天爆炸了吗",
+                    "username": "acg18us",
+                    "type": "supergroup"
+                },
+                "date": 1526288800,
+                "text": "/repeat@AAAAAE8OFbVJq7dA1hsllg_bot",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 32,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 735673192,
+            "message": {
+                "message_id": 12712,
+                "from": {
+                    "id": 518717889,
+                    "is_bot": false,
+                    "first_name": "膜法师"
+                },
+                "chat": {
+                    "id": -1001279304690,
+                    "title": "幻想次元今天爆炸了吗",
+                    "username": "acg18us",
+                    "type": "supergroup"
+                },
+                "date": 1526288813,
+                "pinned_message": {
+                    "message_id": 12708,
+                    "from": {
+                        "id": 518717889,
+                        "is_bot": false,
+                        "first_name": "膜法师"
+                    },
+                    "chat": {
+                        "id": -1001279304690,
+                        "title": "幻想次元今天爆炸了吗",
+                        "username": "acg18us",
+                        "type": "supergroup"
+                    },
+                    "date": 1526288790,
+                    "text": "/repeat@AAAAAE8OFbVJq7dA1hsllg_bot",
+                    "entities": [
+                        {
+                            "offset": 0,
+                            "length": 32,
+                            "type": "bot_command"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "update_id": 735673193,
+            "message": {
+                "message_id": 12713,
+                "from": {
+                    "id": 518717889,
+                    "is_bot": false,
+                    "first_name": "膜法师"
+                },
+                "chat": {
+                    "id": -1001279304690,
+                    "title": "幻想次元今天爆炸了吗",
+                    "username": "acg18us",
+                    "type": "supergroup"
+                },
+                "date": 1526288819,
+                "text": "/repeat@AAAAAE8OFbVJq7dA1hsllg_bot",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 32,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 735673194,
+            "message": {
+                "message_id": 12714,
+                "from": {
+                    "id": 560427942,
+                    "is_bot": false,
+                    "first_name": "wakk复读怪",
+                    "username": "Cookie_OrO"
+                },
+                "chat": {
+                    "id": -1001279304690,
+                    "title": "幻想次元今天爆炸了吗",
+                    "username": "acg18us",
+                    "type": "supergroup"
+                },
+                "date": 1526288831,
+                "text": "/repeat@AAAAAE8OFbVJq7dA1hsllg_bot",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 32,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 735673195,
+            "message": {
+                "message_id": 12719,
+                "from": {
+                    "id": 560427942,
+                    "is_bot": false,
+                    "first_name": "wakk复读怪",
+                    "username": "Cookie_OrO"
+                },
+                "chat": {
+                    "id": -1001279304690,
+                    "title": "幻想次元今天爆炸了吗",
+                    "username": "acg18us",
+                    "type": "supergroup"
+                },
+                "date": 1526288870,
+                "text": "/repeat@AAAAAE8OFbVJq7dA1hsllg_bot",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 32,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        }
+    ]
+}
